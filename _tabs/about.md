@@ -13,5 +13,5 @@ order: 4
   * 이메일 : mgcllee@gmail.com
 
 ## Studying
-  * Language : <img src="https://img.shields.io/badge/C++-F09820?style=flat-plastic&logo=cplusplus"/>
-<img src="https://img.shields.io/badge/C%23-F09820?style=flat-plastic&logo=csharp"/>
+  * Language : ![C++ badge](https://img.shields.io/badge/C++-F09820?style=flat-plastic&logo=cplusplus)
+![C# badge](https://img.shields.io/badge/C%23-F09820?style=flat-plastic&logo=csharp)
