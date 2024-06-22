@@ -11,8 +11,8 @@ toc: true
 toc_sticky: true
 math: true
  
-date: 2024-01-01
-last_modified_at: 2024-01-01
+date: 2024-06-22
+last_modified_at: 2024-06-22
 ---
 
 일상 생활 속 경우의 수는 다양한 곳에서 확인할 수 있습니다.  
