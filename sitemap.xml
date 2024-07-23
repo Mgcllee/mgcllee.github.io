@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://mgcllee.github.io/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/categories/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/tags/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/archives/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/about/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/posts/RHTF_FirstNet/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/posts/RHTF_protobuf/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/posts/BackTracking/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/posts/Protobuf_02/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/posts/Protobuf/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/posts/Diagnostics/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/posts/cpp_template/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/posts/Permu_Combi/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/posts/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/posts/Compiler/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/page2/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/page3/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/tags/c-c/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/tags/algorithm/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/tags/baekjoon/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/tags/cs/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/tags/grpc/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/tags/network/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/tags/c/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/tags/multicore/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/tags/os/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/tags/math/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/categories/algorithm/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/categories/c/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/categories/cs/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/categories/imp/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/categories/language/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/categories/math/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/categories/multicore/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/categories/network/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/categories/sideproject/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/tags/imp/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/tags/language/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/tags/protobuf/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/tags/sideproject/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/posts/DivideConquer/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/posts/EuclideanAlgo/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/posts/OOP/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/posts/Nagle/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/posts/MultiCore_03/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/posts/CCW/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/posts/Ethernet/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/posts/DP/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/posts/BFS_DFS/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/posts/FirstPost/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/posts/CS/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/posts/Algorithm_4949/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/posts/Algorithm_18110/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/posts/Algorithm_1181/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/posts/Algorithm_10828/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/posts/Algorithm_9012/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/posts/Algorithm_1929/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/posts/Algorithm_1654/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/posts/MultiCore_02/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mgcllee.github.io/posts/MultiCore_01/</loc>
+  <lastmod>2024-07-23T05:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
