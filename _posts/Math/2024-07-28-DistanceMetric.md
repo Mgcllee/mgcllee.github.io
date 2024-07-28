@@ -34,7 +34,7 @@ int BFS()
     // start_x, start_y : 현재 위치 
     // 0 : 경과 시간
     // target_cnt : 전체 레기온 수
-    q.push({{start_y, start_x}, {0, target_cnt}});
+    q.push(std::make_pair(std::make_pair(start_y, start_x), std::make_pair(0, target_cnt)));
 
     int total_time = 2e9;
 
@@ -180,7 +180,7 @@ int main()
                 start_y = y;
             } else if(1 == temp)
             {
-                enemy.push_back({y, x});
+                enemy.push_back(std::make_pair(y, x));
             }
         }
     }
