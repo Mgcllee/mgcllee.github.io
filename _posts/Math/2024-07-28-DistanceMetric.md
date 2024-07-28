@@ -31,7 +31,9 @@ int BFS()
     visited[start_y][start_x] = true;
     std::queue<std::pair<std::pair<int, int>, std::pair<int, int>>> q;
 
-    // {{현재 위치}, {경과 시간, 전체 레기온 수}}
+    // start_x, start_y : 현재 위치 
+    // 0 : 경과 시간
+    // target_cnt : 전체 레기온 수
     q.push({{start_y, start_x}, {0, target_cnt}});
 
     int total_time = 2e9;
