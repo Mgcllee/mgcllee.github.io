@@ -31,7 +31,7 @@ int BFS()
     visited[start_y][start_x] = true;
     std::queue<std::pair<std::pair<int, int>, std::pair<int, int>>> q;
 
-    // {{현재 위치}, {경과 시간, 전체 레기온 수}}
+    // [[현재 위치], [경과 시간, 전체 레기온 수]]
     q.push({{start_y, start_x}, {0, target_cnt}});
 
     int total_time = 2e9;
@@ -111,7 +111,11 @@ int BFS()
 
 피타고라스 정리만 알고 있다면, 유클리드 측정법도 이미 알고 있다고 할 수 있습니다.  
 
+<br/>
+
 ![유클리드 측정법](/assets/img/math/유클리드.png)
+
+<br/>
 
 위의 그림에서 **d** 가 바로 유클리드 거리 입니다.  
 
@@ -121,7 +125,11 @@ int BFS()
 
 점(x, y)과 점(a, b) 사이 맨해튼 거리 측정법은 매우 간단합니다.  
 
+<br/>
+
 ![맨해튼 거리 측정법](/assets/img/math/Manhattan_distance.png)
+
+<br/>
 
 위의 그림에서 최단거리는 초록색 처럼 보이지만  
 
@@ -144,6 +152,8 @@ int BFS()
 ## 최종 코드
 
 위의 3가지 거리 측정법을 이용해 다음과 같은 코드로 수정하였습니다.  
+
+<br/>
 
 ```c++
 #include <iostream>
@@ -221,6 +231,7 @@ int main()
 
 ```
 
+<br/>
 
 ## 참고
 [거리 척도 방법 소개](https://blog.naver.com/PostView.naver?blogId=towards-ai&logNo=222234083586&parentCategoryNo=&categoryNo=15)  
