@@ -60,13 +60,13 @@ int BFS()
             if(1 == board[new_y][new_x])
             {
                 board[new_y][new_x] = 0;
-                q.push({{new_y, new_x}, {curr.second.first + 1, curr.second.second - 1}});
+                q.push(std::make_pair(std::make_pair(new_y, new_x), std::make_pair(curr.second.first + 1, curr.second.second - 1)));
             }
 
             // 레기온 없는 전장
             else
             {
-                q.push({{new_y, new_x}, {curr.second.first + 1, curr.second.second}});
+                q.push(std::make_pair(std::make_pair(new_y, new_x), std::make_pair(curr.second.first + 1, curr.second.second)));
             }
 
             // 현재 위치 방문 기록
