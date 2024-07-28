@@ -22,7 +22,7 @@ last_modified_at: 2024-07-28
 
 <br/>
 
-```C++
+```c++
 int BFS()
 {
     bool** visited = new bool*[N];
@@ -31,7 +31,7 @@ int BFS()
     visited[start_y][start_x] = true;
     std::queue<std::pair<std::pair<int, int>, std::pair<int, int>>> q;
 
-    // [[현재 위치], [경과 시간, 전체 레기온 수]]
+    // {{현재 위치}, {경과 시간, 전체 레기온 수}}
     q.push({{start_y, start_x}, {0, target_cnt}});
 
     int total_time = 2e9;
