@@ -1,11 +1,11 @@
 ---
-title:  "[MultiCore] C++ std::async 사용해보기"
+title:  "[C++] std::async 사용해보기"
 excerpt: ""
 
 categories:
-  - MultiCore
+  - C++
 tags:
-  - [MultiCore, C/C++]
+  - [C/C++, async, task]
 
 toc: true
 toc_sticky: true
@@ -117,3 +117,7 @@ while (F.wait_for(du_time) != std::future_status::ready)
 위 코드는 F 객체가 완료될 때 까지 "printf(".")"를 실행하는 코드입니다.  
 
 <br/>
+
+
+
+
