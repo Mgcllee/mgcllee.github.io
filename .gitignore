@@ -19,5 +19,5 @@ package-lock.json
 .vscode
 .vs
 # Misc
-_sass/dist
-assets/js/dist
+# _sass/dist
+# assets/js/dist
