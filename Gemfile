@@ -9,3 +9,4 @@ group :test do
 end
 
 gem "tzinfo-data"
+gem "wdm", "~> 0.2.0"

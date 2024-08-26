@@ -5,7 +5,7 @@ excerpt: ""
 categories:
   - SideProject
 tags:
-  - [SideProject, thread, jthread, C++20]
+  - [SideProject, thread, jthread, C&#47;C&#43;&#43;]
 
 toc: true
 toc_sticky: true

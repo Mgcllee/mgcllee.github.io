@@ -3,9 +3,9 @@ title:  "[C++] std::async 사용해보기"
 excerpt: ""
 
 categories:
-  - C++
+  - C&#47;C&#43;&#43;
 tags:
-  - [C/C++, async, task]
+  - [C&#47;C&#43;&#43;, async, task]
 
 toc: true
 toc_sticky: true

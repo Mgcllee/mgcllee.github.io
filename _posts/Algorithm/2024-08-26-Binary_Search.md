@@ -5,7 +5,7 @@ excerpt: ""
 categories:
   - Algorithm
 tags:
-  - [Algorithm, 이진 탐색, 순차 탐색, 트리, 이진 탐색 트리]
+  - [Algorithm, 이진 탐색, 순차 탐색, 트리, 이진 탐색 트리, C&#47;C&#43;&#43;]
 
 toc: true
 toc_sticky: true

@@ -5,7 +5,7 @@ excerpt: ""
 categories:
   - SideProject
 tags:
-  - [SideProject, gRPC, Protobuf]
+  - [SideProject, gRPC, protobuf]
 
 toc: true
 toc_sticky: true

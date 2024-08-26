@@ -5,7 +5,7 @@ excerpt: ""
 categories:
   - MultiCore
 tags:
-  - [MultiCore, C/C++, C#, CS, OS]
+  - [MultiCore, C&#47;C&#43;&#43;, C#, CS, OS]
 
 toc: true
 toc_sticky: true
