@@ -7,3 +7,6 @@ gemspec
 group :test do
   gem "html-proofer", "~> 5.0"
 end
+
+gem "tzinfo-data"
+gem "wdm", "~> 0.2.0"

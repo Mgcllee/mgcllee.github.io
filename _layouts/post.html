@@ -19,6 +19,7 @@ tail_includes:
     {% endif %}
 
     <div class="post-meta text-muted">
+      
       <!-- published date -->
       <span>
         {{ site.data.locales[lang].post.posted }}
@@ -32,6 +33,7 @@ tail_includes:
           {% include datetime.html date=page.last_modified_at tooltip=true lang=lang %}
         </span>
       {% endif %}
+
 
       {% if page.image %}
         {% capture src %}src="{{ page.image.path | default: page.image }}"{% endcapture %}
@@ -87,9 +89,6 @@ tail_includes:
               {{ site.data.locales[lang].post.pageview_measure }}
             </span>
           {% endif %}
-
-          <!-- read time -->
-          {% include read-time.html content=content prompt=true lang=lang %}
         </div>
       </div>
     </div>
@@ -150,3 +149,12 @@ tail_includes:
   </div>
   <!-- div.post-tail-wrapper -->
 </article>
+
+<!-- Utterances 댓글 스니핏 삽입 -->
+<script src="https://utteranc.es/client.js"
+        repo="mgcllee/mgcllee.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

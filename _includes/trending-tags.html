@@ -21,6 +21,11 @@
 
 {% for size in size_list limit: MAX %}
   {% for tag_str in tag_list %}
+
+    {% if tag_str contains 'Leisure' %}
+      {% continue %}
+    {% endif %}
+
     {% assign tag = tag_str | split: '::' %}
     {% assign tag_name = tag | first %}
     {% assign tag_size = tag | last | plus: 0 %}
