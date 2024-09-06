@@ -1,11 +1,9 @@
 ---
-title:  "[CodeImp] 코드 개선 목적 소개"
+title:  "[Clean Code] 코드 개선 목적 소개"
 excerpt: "포스트 목적 소개"
 
-categories:
-  - IMP
-tags:
-  - [IMP]
+categories: [Clean Code]
+tags: [Clean Code, IMP]
 
 toc: true
 toc_sticky: true

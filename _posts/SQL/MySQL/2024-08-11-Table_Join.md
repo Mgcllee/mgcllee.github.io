@@ -2,10 +2,8 @@
 title:  "[MySQL] 테이블 INNER JOIN"
 excerpt: ""
 
-categories:
-  - SQL
-tags:
-  - [SQL, MySQL, JOIN, INNER]
+categories: [SQL, MySQL]
+tags: [SQL, MySQL, JOIN, INNER]
 
 toc: true
 toc_sticky: true

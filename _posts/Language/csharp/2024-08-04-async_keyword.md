@@ -2,10 +2,8 @@
 title:  "[C#] async 및 await를 사용한 비동기 프로그래밍"
 excerpt: ""
 
-categories:
-  - C#
-tags:
-  - [C#, async, await]
+categories: [Language, C#]
+tag: [C#, async, await]
 
 toc: true
 toc_sticky: true

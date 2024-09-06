@@ -2,10 +2,8 @@
 title:  "[C#] 프로세스 클래스"
 excerpt: "Diagnostics를 이용한 외부 프로그램"
 
-categories:
-  - C#
-tags:
-  - [C#]
+categories: [Language, C#]
+tag: [C#]
 
 toc: true
 toc_sticky: true

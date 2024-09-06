@@ -10,8 +10,5 @@ order: 4
 •&nbsp;&nbsp;&nbsp;&nbsp;의사소통을 위해 노력하는 개발자<br/>
 
 ## Contact Me
-  * 이메일 : mgcllee@gmail.com
-
-## Studying
-  * Language : ![C++ badge](https://img.shields.io/badge/C++-F09820?style=flat-plastic&logo=cplusplus)
-![C# badge](https://img.shields.io/badge/C%23-F09820?style=flat-plastic&logo=csharp)
+  * **이메일** : mgcllee@gmail.com
+  * **GitHub** : [https://github.com/mgcllee](https://github.com/mgcllee)

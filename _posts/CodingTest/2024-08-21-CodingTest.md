@@ -1,11 +1,11 @@
 ---
-title:  "[Job] Coding Test"
-excerpt: "코딩테스트 준비 방법"
+title:  "코딩테스트 준비 방법"
+excerpt: ""
 
 categories:
-  - Job
+  - CodingTest
 tags:
-  - [Job]
+  - [CodingTest]
 
 toc: true
 toc_sticky: true

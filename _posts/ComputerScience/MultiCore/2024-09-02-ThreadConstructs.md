@@ -2,10 +2,8 @@
 title:  "[Thread] C++에서 Thread 생성하기"
 excerpt: ""
 
-categories:
-  - thread
-tags:
-  - [thread, C&#47;C&#43;&#43;, CS, OS]
+categories: [CS, MultiCore]
+tags: [MultiCore, C&#47;C&#43;&#43;, CS, OS]
 
 toc: true
 toc_sticky: true

@@ -2,10 +2,8 @@
 title:  "[MultiCore] 비동기와 병렬"
 excerpt: ""
 
-categories:
-  - MultiCore
-tags:
-  - [MultiCore, C&#47;C&#43;&#43;, C#, CS, OS]
+categories: [CS, MultiCore]
+tags: [MultiCore, C&#47;C&#43;&#43;, CS, OS]
 
 toc: true
 toc_sticky: true

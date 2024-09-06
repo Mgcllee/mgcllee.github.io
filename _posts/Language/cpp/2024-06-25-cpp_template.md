@@ -2,10 +2,8 @@
 title:  "[C++] 템플릿"
 excerpt: "템플릿의 개념과 사용"
 
-categories:
-  - C&#47;C&#43;&#43;
-tags:
-  - [C&#47;C&#43;&#43;]
+categories: [Language, C&#47;C&#43;&#43;]
+tags: [C&#47;C&#43;&#43;]
 
 toc: true
 toc_sticky: true
