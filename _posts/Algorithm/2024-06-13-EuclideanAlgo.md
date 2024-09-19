@@ -2,10 +2,8 @@
 title:  "[Algorithm] 유클리드 호제법"
 excerpt: "최대 공약수 구하기"
 
-categories:
-  - Algorithm
-tags:
-  - [Algorithm]
+categories: [Algorithm]
+tags: [Algorithm]
 
 toc: true
 toc_sticky: true

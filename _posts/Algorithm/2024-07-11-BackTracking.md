@@ -1,11 +1,9 @@
 ---
-title:  "[Algorithm][BackTracking] 백트래킹 알고리즘"
+title:  "[Algorithm] 백트래킹 알고리즘"
 excerpt: ""
 
-categories:
-  - Algorithm
-tags:
-  - [Algorithm]
+categories: [Algorithm, 경로 탐색]
+tags: [Algorithm, BackTracking, 백트래킹]
 
 toc: true
 toc_sticky: true
