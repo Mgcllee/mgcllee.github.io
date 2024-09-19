@@ -1,5 +1,5 @@
 ---
-title:  "[Algorithm] 이진 탐색"
+title:  "[Algorithm][BinarySearch] 이진 탐색"
 excerpt: ""
 
 categories:

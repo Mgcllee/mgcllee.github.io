@@ -1,5 +1,5 @@
 ---
-title:  "[Algorithm] 문자열 매칭 알고리즘"
+title:  "[Algorithm][KMP] 문자열 매칭 알고리즘"
 excerpt: ""
 
 categories:

@@ -1,5 +1,5 @@
 ---
-title:  "[Algorithm] 분할 정복 알고리즘 정리"
+title:  "[Algorithm][DivideConquer] 분할 정복 알고리즘 정리"
 excerpt: "나누어 정복하기"
 
 categories:

@@ -1,5 +1,5 @@
 ---
-title:  "[Algorithm] 백트래킹"
+title:  "[Algorithm][BackTracking] 백트래킹 알고리즘"
 excerpt: ""
 
 categories:

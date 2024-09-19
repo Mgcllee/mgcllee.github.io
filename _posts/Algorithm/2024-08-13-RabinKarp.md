@@ -1,5 +1,5 @@
 ---
-title:  "[Algorithm] Rabin-karp 알고리즘"
+title:  "[Algorithm][Rabin-karp] 문자열 매칭 알고리즘"
 excerpt: ""
 
 categories:
