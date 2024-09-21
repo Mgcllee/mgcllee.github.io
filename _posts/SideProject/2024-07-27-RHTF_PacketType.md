@@ -2,10 +2,8 @@
 title:  "[RHTF] Protobuf 패킷 타입 구분하기"
 excerpt: ""
 
-categories:
-  - SideProject
-tags:
-  - [SideProject, protobuf, socket]
+categories: [SideProject, Rail Hero]
+tags: [SideProject, protobuf, socket]
 
 toc: true
 toc_sticky: true

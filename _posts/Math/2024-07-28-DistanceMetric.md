@@ -1,11 +1,9 @@
 ---
-title:  "[Math] 신에이 노우젠 도와주기"
+title:  "[Math] 거리 측정법"
 excerpt: ""
 
-categories:
-  - Math
-tags:
-  - [Math]
+categories: [Math, 기하학]
+tags: [Math, 기하학]
 
 toc: true
 toc_sticky: true

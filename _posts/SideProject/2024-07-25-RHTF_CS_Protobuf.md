@@ -2,10 +2,8 @@
 title:  "[RHTF] Unity 프로젝트에 Protobuf 적용하기"
 excerpt: ""
 
-categories:
-  - SideProject
-tags:
-  - [SideProject, gRPC, protobuf]
+categories: [SideProject, Rail Hero]
+tags: [SideProject, gRPC, protobuf]
 
 toc: true
 toc_sticky: true

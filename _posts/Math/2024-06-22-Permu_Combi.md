@@ -2,10 +2,8 @@
 title:  "[Math] 순열과 조합"
 excerpt: "n개의 원소에서 r개의 원소를 선택하는 경우의 수"
 
-categories:
-  - Math
-tags:
-  - [Math]
+categories: [Math, 이산수학]
+tags: [Math, 이산수학]
 
 toc: true
 toc_sticky: true

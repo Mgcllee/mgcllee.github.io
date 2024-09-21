@@ -2,10 +2,8 @@
 title:  "[RHTF] C#, C++에서 protobuf의 oneof 키워드 사용하기"
 excerpt: ""
 
-categories:
-  - SideProject
-tags:
-  - [SideProject, protobuf, C#, C&#47;C&#43;&#43;]
+categories: [SideProject, Rail Hero]
+tags: [SideProject, protobuf, C#, C&#47;C&#43;&#43;]
 
 toc: true
 toc_sticky: true
