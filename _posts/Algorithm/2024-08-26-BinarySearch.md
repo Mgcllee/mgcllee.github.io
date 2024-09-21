@@ -2,7 +2,7 @@
 title:  "[Algorithm] 이진 탐색"
 excerpt: ""
 
-categories: [Algorithm, 경로탐색]
+categories: [Algorithm, 경로 탐색]
 tags: [Algorithm, 이진 탐색, 순차 탐색, 트리, 이진 탐색 트리, C&#47;C&#43;&#43;]
 
 toc: true
