@@ -1,5 +1,5 @@
 ---
-title:  "[Math] 거리 측정법"
+title:  "[수학] 거리 측정법"
 excerpt: ""
 
 categories: [Math, 기하학]

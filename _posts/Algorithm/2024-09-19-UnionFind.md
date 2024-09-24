@@ -1,5 +1,5 @@
 ---
-title:  "[Algorithm] Union-Find 알고리즘"
+title:  "[알고리즘] Union-Find 알고리즘"
 excerpt: ""
 
 categories: [Algorithm]

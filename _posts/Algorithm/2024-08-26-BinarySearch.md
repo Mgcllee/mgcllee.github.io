@@ -1,5 +1,5 @@
 ---
-title:  "[Algorithm] 이진 탐색"
+title:  "[알고리즘] 이진 탐색"
 excerpt: ""
 
 categories: [Algorithm, 경로 탐색]

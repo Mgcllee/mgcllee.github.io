@@ -1,5 +1,5 @@
 ---
-title:  "[MultiCore] 비동기와 병렬"
+title:  "[멀티스레드] 비동기와 병렬"
 excerpt: ""
 
 categories: [CS, Asynchronous ]

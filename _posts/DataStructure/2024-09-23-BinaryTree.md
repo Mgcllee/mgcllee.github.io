@@ -1,5 +1,5 @@
 ---
-title:  "[DataStructure] 이진 트리"
+title:  "[자료구조] 이진 트리"
 excerpt: ""
 
 categories: [DataStructure, Tree]

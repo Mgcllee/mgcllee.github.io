@@ -1,5 +1,5 @@
 ---
-title:  "[Thread] C++에서 Thread 생성하기"
+title:  "[멀티스레드] C++에서 Thread 생성하기"
 excerpt: ""
 
 categories: [CS, MultiThread]

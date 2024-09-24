@@ -1,5 +1,5 @@
 ---
-title:  "[Algorithm] 유클리드 호제법"
+title:  "[알고리즘] 유클리드 호제법"
 excerpt: "최대 공약수 구하기"
 
 categories: [Algorithm]
