@@ -40,7 +40,9 @@ reinterpret_cast<data_type>(Data);
 # static_cast
 ---
 
-> static_cast<데이터 타입>(대상);
+```c++
+static_cast<데이터 타입>(대상);
+```
 
 static_cast 는 대상이 주어진 데이터 타입으로 변환 가능할 때, 변환을 실행합니다.  
 int 에서 float 형으로, enum 에서 int 형 등 변환을 시킬 수 있습니다.  
