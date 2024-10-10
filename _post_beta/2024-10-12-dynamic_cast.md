@@ -8,8 +8,8 @@ tags: [C&#47;C&#43;&#43;]
 toc: true
 toc_sticky: true
  
-date: 2024-10-09
-last_modified_at: 2024-10-09
+date: 2024-10-12
+last_modified_at: 2024-10-12
 ---
 
 자료형을 변환할 때, C 언어는 **암시적 형변환과 명시적 형변환** 2가지가 존재합니다.  
