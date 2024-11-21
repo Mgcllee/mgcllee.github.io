@@ -1,9 +1,9 @@
 ---
-title:  "[CS] 프로세스의 개요"
+title:  "[Computer Science] 프로세스의 개요"
 excerpt: ""
 
-categories: [컴퓨터 구조]
-tags: [컴퓨터 구조]
+categories: [Computer Science]
+tags: [Computer Science]
 
 toc: true
 toc_sticky: true

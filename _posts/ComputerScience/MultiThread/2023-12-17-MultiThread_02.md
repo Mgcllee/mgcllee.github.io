@@ -1,8 +1,8 @@
 ---
-title:  "[멀티스레드] 멀티 쓰레드 프로그래밍"
+title:  "[멀티 쓰레드] 멀티 쓰레드 프로그래밍"
 excerpt: "멀티 쓰레드 프로그래밍의 개념을 확인합니다."
 
-categories: [CS, MultiThread]
+categories: [Computer Science, MultiThread]
 tags: [MultiThread, C&#47;C&#43;&#43;, CS, OS]
 
 toc: true

@@ -1,8 +1,8 @@
 ---
-title:  "[멀티스레드] Data Race 없는 티켓 발급기"
+title:  "[멀티 쓰레드] Data Race 없는 티켓 발급기"
 excerpt: ""
 
-categories: [CS, MultiThread]
+categories: [Computer Science, MultiThread]
 tags: [MultiThread, C&#47;C&#43;&#43;, CS, OS]
 
 toc: true
@@ -31,13 +31,13 @@ int PacketWorker::get_new_client_ticket() {
 
 <br/>
 
-[위 코드](https://github.com/Mgcllee/PokeHunter/blob/f55dfcb26e4dfe95dd4deed97fe2813522de2eed/PokeHunter_Server/MainServer/PacketWorker.cpp#L91)는 멀티스레드 환경에서 실행되는 게임 서버 코드의 일부입니다.  
+[위 코드](https://github.com/Mgcllee/PokeHunter/blob/f55dfcb26e4dfe95dd4deed97fe2813522de2eed/PokeHunter_Server/MainServer/PacketWorker.cpp#L91)는 멀티 쓰레드 환경에서 실행되는 게임 서버 코드의 일부입니다.  
 서버에 새로운 클라이언트가 접속하면 고유 번호를 발급해주는 함수를 만드는 것이 목적이였습니다.  
 <br/>
 
 그러나 CPU 에서는 함수의 시작, 복합 연산자 계산 그리고 반환까지 한 번에 실행되지 **않을 수 있습니다.**  
 위 코드를 그대로 사용했을 때, 1~3번 클라이언트에게 동시에 티켓을 발급한다면 아래처럼 실행될 수 있습니다.  
-이때, 클라이언트 번호와 동일한 번호의 스레드가 각 클라이언트를 담당한다고 가정하겠습니다.  
+이때, 클라이언트 번호와 동일한 번호의 쓰레드가 각 클라이언트를 담당한다고 가정하겠습니다.  
 <br/>
 
 ![DataRace01](/assets/img/MultiThread/DataRace_01.png)  
@@ -47,16 +47,16 @@ int PacketWorker::get_new_client_ticket() {
 <br/>
 
 1. 1, 2, 3번 클라이언트가 동시에 서버로 접속했습니다.  
-2. 1번 클라이언트의 티켓 발급을 위해 1번 스레드가 get_new_client_ticket() 함수를 호출합니다.  
-3. 1번 스레드가 지금까지 작업 내용을 스택에 작성하는 동안 2번 스레드로 **Context Switch 가 발생합니다.**  
+2. 1번 클라이언트의 티켓 발급을 위해 1번 쓰레드가 get_new_client_ticket() 함수를 호출합니다.  
+3. 1번 쓰레드가 지금까지 작업 내용을 스택에 작성하는 동안 2번 쓰레드로 **Context Switch 가 발생합니다.**  
 
 > Context Switch는 운영체제에서 효율적인 동시 작업을 위해 사용하는 기술로  
 > 응용 프로그래머는 Context Switch 의 시점을 파악 혹은 조작할 수 없습니다.  
 
-4. 2번 스레드는 user_ticket 의 값을 읽던 중 **Context Switch 가 발생합니다.**  
-5. 3번 스레드가 user_ticket 복합 연산(++) 결과를 반환 받던 중 **Context Switch 가 발생합니다.**  
-6. 2번 스레드가 실행되어 **이전에 읽어뒀던 user_ticket** 값에 ++ 연산을 실행합니다.  
-7. 1번 스레드가 다시 실행되면서 2번 혹은 3번 스레드에 의해 증가된 user_ticket에 ++ 연산을 실행합니다.  
+4. 2번 쓰레드는 user_ticket 의 값을 읽던 중 **Context Switch 가 발생합니다.**  
+5. 3번 쓰레드가 user_ticket 복합 연산(++) 결과를 반환 받던 중 **Context Switch 가 발생합니다.**  
+6. 2번 쓰레드가 실행되어 **이전에 읽어뒀던 user_ticket** 값에 ++ 연산을 실행합니다.  
+7. 1번 쓰레드가 다시 실행되면서 2번 혹은 3번 쓰레드에 의해 증가된 user_ticket에 ++ 연산을 실행합니다.  
 
 <br/>
 
@@ -78,7 +78,7 @@ void Worker() {
 ```
 <br/>
 
-Worker 함수를 4개의 스레드로 실행하면 SUM 의 결과가 4'000'000 이라는 값이 나와야 합니다.  
+Worker 함수를 4개의 쓰레드로 실행하면 SUM 의 결과가 4'000'000 이라는 값이 나와야 합니다.  
 그러나 실제 결과는 4백만에 근접하지도 않고 실행할 때 마다 다른 결과를 출력합니다.  
 <br/>
 
@@ -109,8 +109,8 @@ void Worker() {
 
 드디어 SUM 결과가 정상적으로 출력되었습니다.  
 그러나 정확성은 올라갔지만 **연산 시간이 급증** 하게 되었습니다.  
-한 스레드가 atomic 변수에 접근하게 되면 다른 스레드는 접근할 수 없기 때문에  
-스레드의 대기 시간이 길어져 전체 연산 시간이 증가했기 때문입니다.  
+한 쓰레드가 atomic 변수에 접근하게 되면 다른 쓰레드는 접근할 수 없기 때문에  
+쓰레드의 대기 시간이 길어져 전체 연산 시간이 증가했기 때문입니다.  
 <br/>
 
 그리고 처음 언급한 문제의 코드에서는 SUM 의 결과값도 가져와야 하므로  
