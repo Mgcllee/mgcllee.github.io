@@ -2,7 +2,7 @@
 title:  "[멀티 쓰레드] Data Race 없는 티켓 발급기"
 excerpt: ""
 
-categories: [Computer Science, MultiThread]
+categories: [Computer Science, Multi Thread]
 tags: [MultiThread, C&#47;C&#43;&#43;, CS, OS]
 
 toc: true

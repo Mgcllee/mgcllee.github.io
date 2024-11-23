@@ -2,7 +2,7 @@
 title:  "[멀티 쓰레드] 멀티 쓰레드의 성능 확인"
 excerpt: "멀티 쓰레드 프로그래밍의 성능을 올릴 수 있는 방법을 알아봅니다."
 
-categories: [Computer Science, MultiThread]
+categories: [Computer Science, Multi Thread]
 tags: [MultiThread, C&#47;C&#43;&#43;, CS, OS]
 
 toc: true

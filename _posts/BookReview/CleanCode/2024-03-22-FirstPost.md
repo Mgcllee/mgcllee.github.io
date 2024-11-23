@@ -2,7 +2,7 @@
 title:  "[Clean Code] 코드 개선 목적 소개"
 excerpt: "포스트 목적 소개"
 
-categories: [Clean Code]
+categories: [Book Reivew, Clean Code]
 tags: [Clean Code, IMP]
 
 toc: true

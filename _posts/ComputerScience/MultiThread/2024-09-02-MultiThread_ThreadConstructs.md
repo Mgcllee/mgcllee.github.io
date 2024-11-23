@@ -2,7 +2,7 @@
 title:  "[멀티 쓰레드] C++에서 Thread 생성하기"
 excerpt: ""
 
-categories: [Computer Science, MultiThread]
+categories: [Computer Science, Multi Thread]
 tags: [MultiThread, C&#47;C&#43;&#43;, CS, OS]
 
 toc: true
@@ -26,14 +26,14 @@ last_modified_at: 2024-09-02
 
 쓰레드의 생성자는 총 6가지로 다음과 같습니다.  
 
-|형식|설명|
-|---|---|
-|std::thread t1 | t1 is not a thread |
-|std::thread t2(function_1, n + 1) | pass by value|
-|std::thread t3(function_2, std::ref(n)) | pass by reference|
-|std::thread t4(std::move(t3)) | t4 is now running f2(). t3 is no longer a thread|
-|std::thread t5(&foo::method, &foo_class_instance) | t5 runs foo::bar() on object f|
-|std::thread t6(b_class_instance) | t6 runs baz::operator() on a copy of object b|
+| 형식                                              | 설명                                             |
+| ------------------------------------------------- | ------------------------------------------------ |
+| std::thread t1                                    | t1 is not a thread                               |
+| std::thread t2(function_1, n + 1)                 | pass by value                                    |
+| std::thread t3(function_2, std::ref(n))           | pass by reference                                |
+| std::thread t4(std::move(t3))                     | t4 is now running f2(). t3 is no longer a thread |
+| std::thread t5(&foo::method, &foo_class_instance) | t5 runs foo::bar() on object f                   |
+| std::thread t6(b_class_instance)                  | t6 runs baz::operator() on a copy of object b    |
 
 [[출처]cppreference.com](https://en.cppreference.com/w/cpp/thread/thread/thread)  
 <br/>

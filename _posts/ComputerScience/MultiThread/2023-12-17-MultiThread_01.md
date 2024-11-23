@@ -2,7 +2,7 @@
 title:  "[멀티 쓰레드] 프로세스와 쓰레드"
 excerpt: "프로세스와 쓰레드의 개념을 확인해봅니다."
 
-categories: [Computer Science, MultiThread]
+categories: [Computer Science, Multi Thread]
 tags: [MultiThread, C&#47;C&#43;&#43;, CS, OS]
 
 toc: true
