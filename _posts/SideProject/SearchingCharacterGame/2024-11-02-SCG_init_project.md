@@ -2,7 +2,7 @@
 title:  "[SCG 프로젝트] MonoGame과 C# 서버로 간단한 프로그램 만들기"
 excerpt: ""
 
-categories: [SideProject, Fireboy Watergirl and Earthman]
+categories: [Side Project, SearchingCharacterGame]
 tags: [SideProject, C&#47;C&#43;&#43;]
 
 toc: true

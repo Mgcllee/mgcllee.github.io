@@ -2,7 +2,7 @@
 title:  "[SideProject] 어째서 코드를 깨끗하게 만들어야할까"
 excerpt: ""
 
-categories: [SideProject, Fireboy Watergirl and Earthman]
+categories: [Side Project, Fireboy Watergirl and Earthman]
 tags: [SideProject, C&#47;C&#43;&#43;]
 
 toc: true

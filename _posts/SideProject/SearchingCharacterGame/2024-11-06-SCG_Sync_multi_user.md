@@ -2,7 +2,7 @@
 title:  "[SCG 프로젝트] 클라이언트 간 동기화 시키기(기초)"
 excerpt: ""
 
-categories: [SideProject, Fireboy Watergirl and Earthman]
+categories: [Side Project, SearchingCharacterGame]
 tags: [SideProject, C&#47;C&#43;&#43;]
 
 toc: true

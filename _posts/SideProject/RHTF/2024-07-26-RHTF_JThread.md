@@ -2,7 +2,7 @@
 title:  "[RHTF][기록] thread에서 .join()의 중요성"
 excerpt: ""
 
-categories: [SideProject, Rail Hero]
+categories: [Side Project, Rail Hero]
 tags: [SideProject, thread, jthread, C&#47;C&#43;&#43;]
 
 toc: true

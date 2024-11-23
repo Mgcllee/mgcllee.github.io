@@ -2,7 +2,7 @@
 title:  "[RHTF] Protobuf 컴파일러 Protoc"
 excerpt: ""
 
-categories: [SideProject, Rail Hero]
+categories: [Side Project, Rail Hero]
 tags: [SideProject, protobuf, C#, C&#47;C&#43;&#43;]
 
 toc: true

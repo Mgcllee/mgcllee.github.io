@@ -2,7 +2,7 @@
 title:  "[RHTF] C#, C++ 프로젝트에서 Protobuf 적용하기"
 excerpt: ""
 
-categories: [SideProject, Rail Hero]
+categories: [Side Project, Rail Hero]
 tags: [SideProject, gRPC, protobuf]
 
 toc: true

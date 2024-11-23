@@ -2,10 +2,8 @@
 title:  "[네트워크] C#과 C++ 사이 통신하기"
 excerpt: ""
 
-categories:
-  - Network
-tags:
-  - [Network, C#, C&#47;C&#43;&#43;, gRPC, protobuf]
+categories: [Network, Protocol Buffers]
+tags: [Network, C#, C&#47;C&#43;&#43;, gRPC, protobuf]
 
 toc: true
 toc_sticky: true
