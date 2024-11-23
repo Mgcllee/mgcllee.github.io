@@ -2,10 +2,8 @@
 title:  "[네트워크] 네이글 알고리즘"
 excerpt: "네이글 알고리즘과 TCP"
 
-categories:
-  - Network
-tags:
-  - [Network]
+categories: [Network, Layer Model]
+tags: [Network]
 
 toc: true
 toc_sticky: true

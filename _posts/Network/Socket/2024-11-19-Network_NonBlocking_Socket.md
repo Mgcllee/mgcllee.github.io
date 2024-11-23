@@ -2,7 +2,7 @@
 title:  "[네트워크] 논블로킹 소켓"
 excerpt: ""
 
-categories: [Network]
+categories: [Network, Network Socket]
 tags: [Network, socket]
 
 toc: true

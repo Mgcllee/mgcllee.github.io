@@ -2,7 +2,7 @@
 title:  "[네트워크] Overlapped I/O"
 excerpt: ""
 
-categories: [Network]
+categories: [Network, Network Socket]
 tags: [Network, socket]
 
 toc: true

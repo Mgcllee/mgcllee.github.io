@@ -2,7 +2,7 @@
 title:  "[네트워크] TCP/IP 는 무엇일까"
 excerpt: ""
 
-categories: [Network]
+categories: [Network, Layer Model]
 tags: [Network, socket, MTU, MSS]
 
 toc: true

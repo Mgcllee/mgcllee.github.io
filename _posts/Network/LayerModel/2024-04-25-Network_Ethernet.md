@@ -2,10 +2,8 @@
 title:  "[네트워크] 이더넷의 개념과 특징"
 excerpt: "이더넷의 개념과 특징"
 
-categories:
-  - Network
-tags:
-  - [Network]
+categories: [Network, Layer Model]
+tags: [Network]
 
 toc: true
 toc_sticky: true
@@ -26,14 +24,14 @@ OSI 7계층 중 __물리 계층__ 과 __데이터 링크 계층__ 에서 사용�
 
 # 통신매체-규격  
 
-|명칭|통신속도|케이블 최대 길이|
-|---|---|---|
-|10BASE-T|10Mbps|100M|
-|100BASE-TX|100Mbps|100M|
-|1000BASE-T|1Gbps|100M|
-|1000BASE-SX|1Gbps|550M|
-|1000BASE-LX|1Gbps|10KM|
-|10GBASE-T|10Gbps|100M|
+| 명칭        | 통신속도 | 케이블 최대 길이 |
+| ----------- | -------- | ---------------- |
+| 10BASE-T    | 10Mbps   | 100M             |
+| 100BASE-TX  | 100Mbps  | 100M             |
+| 1000BASE-T  | 1Gbps    | 100M             |
+| 1000BASE-SX | 1Gbps    | 550M             |
+| 1000BASE-LX | 1Gbps    | 10KM             |
+| 10GBASE-T   | 10Gbps   | 100M             |
   
 [정병훈, 2015, “WLAN 기술의 발전 방향 및 IEEE 802.11ax 표준화 동향”, p.02]  
 <br/>

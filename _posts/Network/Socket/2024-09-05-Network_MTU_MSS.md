@@ -2,10 +2,8 @@
 title:  "[네트워크] 소켓 통신에서 버퍼 용량 결정하기"
 excerpt: ""
 
-categories:
-  - Network
-tags:
-  - [Network, socket, MTU, MSS]
+categories: [Network, Network Socket]
+tags: [Network, socket, MTU, MSS]
 
 toc: true
 toc_sticky: true
