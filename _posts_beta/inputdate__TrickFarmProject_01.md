@@ -60,3 +60,12 @@ Orleans가 가장 필요했던 이유는 위와 같은 가상 액터 모델이
 단일 코어 환경에서 동작할 수 있었기 때문입니다.  
 
 <!-->Orleans 공식문서에서 찾아서 내용 첨부하기<-->
+
+![Orlenas 이점 01](/assets/img/side_project_img/TrickFarm/Orleans이점_01.png){: width="600", height="600"}  
+<center>[출처: MS Learn Orleans의 이점]</center>
+
+
+### 출처
+---
+
+1. 조직의 단일 스레드 실행 가능한 Orlenas [소개](https://learn.microsoft.com/ko-kr/dotnet/orleans/benefits#single-threaded-execution-of-grains)  
