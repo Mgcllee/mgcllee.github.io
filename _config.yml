@@ -16,10 +16,10 @@ timezone:
 
 title: Mgcllee # the main title
 
-tagline: 매주 목요일 업데이트
+tagline: 배움의 즐거움
 
 description: >- # used by seo meta and the atom feed
-  매주 목요일 업데이트
+  Mgcllee입니다.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
