@@ -64,6 +64,12 @@ Orleans가 가장 필요했던 이유는 위와 같은 가상 액터 모델이
 ![Orlenas 이점 01](/assets/img/side_project_img/TrickFarm/Orleans이점_01.png){: width="600", height="600"}  
 <center>[출처: MS Learn Orleans의 이점]</center>
 
+<br/>
+
+로컬에서 실행하는 환경은 VM Ware에 Linux Ubuntu server 22.04를 이용하여  
+실행할 예정입니다.  
+
+<br/>
 
 ### 출처
 ---
