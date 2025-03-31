@@ -1,9 +1,9 @@
 ---
-title:  "[TechReview][Orleans] Grain의 개념"
+title:  "[.NET Orleans] Grain의 개념"
 excerpt: ""
 
-categories: [&#46;NET, Orleans]
-tags: [&#46;NET, Orleans, C&#35;]
+categories: [.NET, Orleans]
+tags: [.NET, Orleans, C#]
 
 toc: true
 toc_sticky: true
