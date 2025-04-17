@@ -2,14 +2,14 @@
 title:  ".NET으로 서버 만들기 - 프로젝트 기본 설정하기"
 excerpt: ""
 
-categories: [Side Project, ChattingProgram]
-tags: [SideProject, C&#47;C&#43;&#43;]
+categories: [Side Project, Trick Farm]
+tags: [.NET, Orleans, C#]
 
 toc: true
 toc_sticky: true
  
-date: 2025-03-20
-last_modified_at: 2025-03-20
+date: 2025-04-15
+last_modified_at: 2025-04-15
 ---
 
 > **".NET으로 서버 만들기 시리즈"**는 처음 .NET을 접한 뒤 도전해 보는 프로젝트로  
@@ -59,15 +59,16 @@ Orleans 공식 문서에서는 프레임워크가 직접 생성하고 종료시�
 Orleans가 가장 필요했던 이유는 위와 같은 가상 액터 모델이
 단일 코어 환경에서 동작할 수 있었기 때문입니다.  
 
-<!-->Orleans 공식문서에서 찾아서 내용 첨부하기<-->
-
 ![Orlenas 이점 01](/assets/img/side_project_img/TrickFarm/Orleans이점_01.png){: width="600", height="600"}  
 <center>[출처: MS Learn Orleans의 이점]</center>
 
 <br/>
 
-로컬에서 실행하는 환경은 VM Ware에 Linux Ubuntu server 22.04를 이용하여  
-실행할 예정입니다.  
+Orleans는 위와 같은 특징 덕분에 Azure VM 최소 사양에서도 동작할 수 있습니다.  
+그래서 저는 Azure 서비스들과 Orleans를 활용해서 클라이언트-서버 구조를 구현해 보고자 합니다.  
+(아래의 그림은 최초 구상시 아키텍쳐를 표현한 그림으로 현재 구현 모습과 차이가 있습니다.)  
+
+![임시 구조](/assets/img/side_project_img/TrickFarm/TrickFarm_구상도.png){: width="650", height="650"}
 
 <br/>
 
